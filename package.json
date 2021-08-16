@@ -1,0 +1,25 @@
+{
+  "name": "ethernautsols",
+  "version": "1.0.0",
+  "description": "## Hello Ethernaut",
+  "main": "token.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/7770x/ethernautsols.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/7770x/ethernautsols/issues"
+  },
+  "homepage": "https://github.com/7770x/ethernautsols#readme",
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^1.4.3",
+    "dotenv": "^10.0.0",
+    "ethers": "^5.4.4",
+    "truffle": "^5.4.5"
+  }
+}
